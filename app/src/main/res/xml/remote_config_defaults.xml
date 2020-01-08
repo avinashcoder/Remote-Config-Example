@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>loading_phrase</key>
+        <value>Fetching config…</value>
+    </entry>
+
+    <entry>
+        <key>welcome_message_caps</key>
+        <value>false</value>
+    </entry>
+
+    <entry>
+        <key>welcome_message</key>
+        <value>Welcome to my awesome app!</value>
+    </entry>
+
+    <entry>
+        <key>text_str</key>
+        <value>Welcome to the app</value>
+    </entry>
+
+    <entry>
+        <key>text_size</key>
+        <value>14</value>
+    </entry>
+
+    <entry>
+        <key>text_color</key>
+        <value>#FF0000</value>
+    </entry>
+
+</defaultsMap>
